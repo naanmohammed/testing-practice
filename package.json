@@ -1,0 +1,19 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This repository contains a few practical tests for JavaScript functions using the Jest library.",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naanmohammed/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naanmohammed/testing-practice/issues"
+  },
+  "homepage": "https://github.com/naanmohammed/testing-practice#readme"
+}
